@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI, no code/lowcode
 - 💞️ I’m looking to collaborate on esay task that help me to learn more while helping others and discovering git environment as well
 - 📫 You can reachme by email
-- 😄 C4rl0s
+- 😄 C4p1
 - ⚡ Fun fact: Iḿ already Bald but triyng to become Bold
 
 <!---
